@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BusinessPrefab
+  - enemy
+  - dst
+  - emdst
+  - left
+  - right
+  - center
+  - zombiereaper
+  - zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - effect
+  - enemy
+  - quest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 703290757
+    locked: 0
+  - name: BGLevel1
+    uniqueID: 167191617
+    locked: 0
+  - name: Player
+    uniqueID: 3734088437
+    locked: 0
+  - name: Body
+    uniqueID: 3136129837
+    locked: 0
+  - name: Head
+    uniqueID: 2336410731
+    locked: 0
+  - name: Arm
+    uniqueID: 4077156777
+    locked: 0
+  - name: Hood
+    uniqueID: 2088907523
+    locked: 0
+  - name: weapon
+    uniqueID: 2238556259
+    locked: 0
+  - name: Effect
+    uniqueID: 288525423
+    locked: 0
+  - name: garden
+    uniqueID: 2759560299
+    locked: 0
+  - name: MainUI
+    uniqueID: 3373490619
+    locked: 0
+  - name: UIEffect
+    uniqueID: 4181924127
+    locked: 0

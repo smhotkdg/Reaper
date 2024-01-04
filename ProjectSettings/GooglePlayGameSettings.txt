@@ -1,0 +1,9 @@
+lastUpgrade=01009
+proj.pluginVersion=0.10.09
+proj.AppId=1012424607727
+and.BundleId=com.hoitstudio.idlereaper
+proj.classDir=Assets%2fEasyMobile%2fGenerated
+proj.ConstantsClassName=EM_GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e1012424607727%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.hoitstudio.idlereaper%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Max+Depth+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_max_depth%22+translatable%3d%22false%22%3eCgkI74_WybsdEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Total+ReAdvent+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_total_readvent%22+translatable%3d%22false%22%3eCgkI74_WybsdEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Max+Dungeon+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_max_dungeon%22+translatable%3d%22false%22%3eCgkI74_WybsdEAIQBA%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
